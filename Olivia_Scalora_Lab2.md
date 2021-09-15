@@ -115,4 +115,4 @@ acsTractsPHL.2019.sf <- acsTractsPHL.2019.sf %>%
 
 ## Plot with {ggplot2}
 
-![](Lab2_assignment_files/figure-gfm/ggplot_geom_sf-1.png)<!-- -->
+![](Olivia_Scalora_Lab2_files/figure-gfm/ggplot_geom_sf-1.png)<!-- -->

@@ -1,5 +1,6 @@
 
-# MUSA_508_Lab2
+# MUSA 508 - SF and Geo Deep Dive
+### Previously 508 - Lab 2
 
 The goal of MUSA_508_Lab2 is to:
 
